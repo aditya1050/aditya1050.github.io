@@ -1,0 +1,60 @@
+body
+{
+	background-color:rgb(0, 0, 26)!important;
+}
+#typed
+{
+	font-size: 40px;
+	font-weight:bold;
+}
+.text-justify
+{
+    padding-top: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 18px;
+    font-style: bold;
+}
+.text-justify1
+{
+    padding-top: 15px;
+	padding-left: 30px;
+	padding-right: 15px;
+	text-align: left;
+	font-size: 18px;
+    font-style: bold;
+}
+.pic1
+{
+	padding-left: 50px;
+}
+.container{
+	text-align: center;
+}
+.box-margin
+{
+	background-color:rgb(0,0,0);
+	color:white;
+.container
+}
+{
+	padding-top: 70px;
+}
+
+.trans
+{
+    position: relative;
+    display: inline-block;
+    animation: animate 5s linear infinite;
+}
+@keyframes animate
+{
+	50%
+	{
+		transform: translateY(-20px);
+	}
+	50%
+	{
+		transform: translateY(-20px);
+	}
+}
